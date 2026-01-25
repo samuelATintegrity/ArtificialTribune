@@ -1,0 +1,16 @@
+TOP|https://feeds.reuters.com/reuters/topNews
+TOP|https://apnews.com/apf-topnews?output=rss
+TOP|https://feeds.bbci.co.uk/news/rss.xml
+
+US_POLITICS|https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml
+
+FOREIGN_POLICY|https://feeds.a.dj.com/rss/RSSWorldNews.xml
+
+WORLD|https://www.theguardian.com/world/rss
+
+BUSINESS|https://feeds.a.dj.com/rss/RSSWSJD.xml
+BUSINESS|https://www.ft.com/world?format=rss
+
+TECH|https://www.theverge.com/rss/index.xml
+
+SPORTS|https://www.espn.com/espn/rss/news
