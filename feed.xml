@@ -8,7 +8,7 @@
     <language>en-us</language>
     <description>Your podcast description.</description>
 
-    <atom:link href="https://YOURDOMAIN.COM/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://samuelATintegrity.io/feed.xml" rel="self" type="application/rss+xml" />
 
     <itunes:author>Your Name</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -21,7 +21,7 @@
       <guid isPermaLink="false">episode-1</guid>
 
       <!-- enclosure url must be a direct MP3 URL -->
-      <enclosure url="https://YOUR-AUDIO-HOST.COM/2026-01-24.mp3"
+      <enclosure url="https://samuelATintegrity.io//2026-01-24.mp3"
                  length="12345678"
                  type="audio/mpeg" />
 
