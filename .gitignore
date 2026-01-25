@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Python virtual environment
+.venv/
+
+# Local outputs (audio, logs, json)
+output/
+
+# Python cache
+__pycache__/
+*.pyc
