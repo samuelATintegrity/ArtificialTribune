@@ -6,6 +6,7 @@
     <title>Your Podcast Title</title>
     <link>https://YOURDOMAIN.COM/</link>
     <language>en-us</language>
+        <itunes:image href="https://samuelatintegrity.github.io/ArtificialTribune/podcast.jpg"/>
     <description>Your podcast description.</description>
 
     <atom:link href="https://samuelATintegrity.io/feed.xml" rel="self" type="application/rss+xml" />
