@@ -1,0 +1,12 @@
+{
+  "title": "Artificial Tribune",
+  "description": "Daily AI-generated news audio recap.",
+  "site_url": "https://samuelatintegrity.github.io/ArtificialTribune/",
+  "feed_url": "https://samuelatintegrity.github.io/ArtificialTribune/feed.xml",
+  "author": "Artificial Tribune",
+  "language": "en-us",
+  "explicit": "false",
+  "category": "News"
+  "image_url": "https://samuelatintegrity.github.io/ArtificialTribune/podcast.jpg"
+}
+
