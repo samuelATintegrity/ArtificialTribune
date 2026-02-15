@@ -8,13 +8,20 @@
     <language>en-us</language>
     <description>Your daily news brief, without the bait.</description>
     <atom:link href="https://samuelatintegrity.github.io/ArtificialTribune/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 14 Feb 2026 07:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 07:01:11 +0000</lastBuildDate>
 
     <itunes:author>The Artificial Tribune</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
     <itunes:image href="https://samuelatintegrity.github.io/ArtificialTribune/podcast.jpg"/>
 
+<item>
+      <title>Artificial Tribune - 2026-02-15</title>
+      <description>Daily news audio recap.</description>
+      <pubDate>Sun, 15 Feb 2026 07:01:11 +0000</pubDate>
+      <guid isPermaLink="true">https://samuelatintegrity.github.io/ArtificialTribune/publish/2026-02-15.mp3</guid>
+      <enclosure url="https://samuelatintegrity.github.io/ArtificialTribune/publish/2026-02-15.mp3" length="3074969" type="audio/mpeg"/>
+    </item>
 <item>
       <title>Artificial Tribune - 2026-02-14</title>
       <description>Daily news audio recap.</description>
