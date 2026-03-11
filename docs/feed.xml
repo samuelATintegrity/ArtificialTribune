@@ -8,7 +8,7 @@
     <language>en-us</language>
     <description>Your daily news brief, without the bait.</description>
     <atom:link href="https://samuelatintegrity.github.io/ArtificialTribune/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 10 Mar 2026 06:01:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 06:01:44 +0000</lastBuildDate>
 
     <itunes:author>The Artificial Tribune</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -16,9 +16,16 @@
     <itunes:image href="https://samuelatintegrity.github.io/ArtificialTribune/podcast.jpg"/>
 
 <item>
+      <title>Artificial Tribune - 2026-03-11</title>
+      <description>Daily news audio recap.</description>
+      <pubDate>Wed, 11 Mar 2026 06:01:44 +0000</pubDate>
+      <guid isPermaLink="true">https://samuelatintegrity.github.io/ArtificialTribune/publish/2026-03-11.mp3</guid>
+      <enclosure url="https://samuelatintegrity.github.io/ArtificialTribune/publish/2026-03-11.mp3" length="2103214" type="audio/mpeg"/>
+    </item>
+<item>
       <title>Artificial Tribune - 2026-03-10</title>
       <description>Daily news audio recap.</description>
-      <pubDate>Tue, 10 Mar 2026 06:01:03 +0000</pubDate>
+      <pubDate>Tue, 10 Mar 2026 06:01:02 +0000</pubDate>
       <guid isPermaLink="true">https://samuelatintegrity.github.io/ArtificialTribune/publish/2026-03-10.mp3</guid>
       <enclosure url="https://samuelatintegrity.github.io/ArtificialTribune/publish/2026-03-10.mp3" length="2348138" type="audio/mpeg"/>
     </item>
@@ -217,13 +224,6 @@
       <pubDate>Sun, 08 Feb 2026 07:00:59 +0000</pubDate>
       <guid isPermaLink="true">https://samuelatintegrity.github.io/ArtificialTribune/publish/2026-02-08.mp3</guid>
       <enclosure url="https://samuelatintegrity.github.io/ArtificialTribune/publish/2026-02-08.mp3" length="2583031" type="audio/mpeg"/>
-    </item>
-<item>
-      <title>Artificial Tribune - 2026-02-04</title>
-      <description>Daily news audio recap.</description>
-      <pubDate>Wed, 04 Feb 2026 07:00:54 +0000</pubDate>
-      <guid isPermaLink="true">https://samuelatintegrity.github.io/ArtificialTribune/publish/2026-02-04.mp3</guid>
-      <enclosure url="https://samuelatintegrity.github.io/ArtificialTribune/publish/2026-02-04.mp3" length="3787590" type="audio/mpeg"/>
     </item>
 
   </channel>
