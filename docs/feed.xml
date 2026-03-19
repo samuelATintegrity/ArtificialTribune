@@ -8,13 +8,20 @@
     <language>en-us</language>
     <description>Your daily news brief, without the bait.</description>
     <atom:link href="https://samuelatintegrity.github.io/ArtificialTribune/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 17 Mar 2026 06:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 06:01:11 +0000</lastBuildDate>
 
     <itunes:author>The Artificial Tribune</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
     <itunes:image href="https://samuelatintegrity.github.io/ArtificialTribune/podcast.jpg"/>
 
+<item>
+      <title>Artificial Tribune - 2026-03-19</title>
+      <description>Daily news audio recap.</description>
+      <pubDate>Thu, 19 Mar 2026 06:01:11 +0000</pubDate>
+      <guid isPermaLink="true">https://samuelatintegrity.github.io/ArtificialTribune/publish/2026-03-19.mp3</guid>
+      <enclosure url="https://samuelatintegrity.github.io/ArtificialTribune/publish/2026-03-19.mp3" length="2662026" type="audio/mpeg"/>
+    </item>
 <item>
       <title>Artificial Tribune - 2026-03-17</title>
       <description>Daily news audio recap.</description>
@@ -217,13 +224,6 @@
       <pubDate>Sat, 14 Feb 2026 07:00:54 +0000</pubDate>
       <guid isPermaLink="true">https://samuelatintegrity.github.io/ArtificialTribune/publish/2026-02-14.mp3</guid>
       <enclosure url="https://samuelatintegrity.github.io/ArtificialTribune/publish/2026-02-14.mp3" length="2508217" type="audio/mpeg"/>
-    </item>
-<item>
-      <title>Artificial Tribune - 2026-02-13</title>
-      <description>Daily news audio recap.</description>
-      <pubDate>Fri, 13 Feb 2026 07:01:02 +0000</pubDate>
-      <guid isPermaLink="true">https://samuelatintegrity.github.io/ArtificialTribune/publish/2026-02-13.mp3</guid>
-      <enclosure url="https://samuelatintegrity.github.io/ArtificialTribune/publish/2026-02-13.mp3" length="2656592" type="audio/mpeg"/>
     </item>
 
   </channel>
